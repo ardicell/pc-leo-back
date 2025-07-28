@@ -6,7 +6,7 @@ export default {
     <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Gallery Slider Keren</title>
+      <title>Gallery Pc Dagangan</title>
       <style>
         * {
           box-sizing: border-box;
@@ -255,7 +255,7 @@ export default {
     </head>
     <body>
       <div class="header">
-        <h1>Gallery Foto Keren</h1>
+        <h1>Gallery Foto Barangnya</h1>
         <p class="subtitle">Geser dengan tombol atau swipe untuk melihat foto lainnya</p>
       </div>
       
@@ -263,19 +263,23 @@ export default {
         <div class="gallery-container" id="gallery">
           <div class="gallery-slider" id="slider">
             <div class="slide">
-              <img src="https://images.unsplash.com/photo-1682687220063-4742bd7fd538?auto=format&fit=crop&q=80" alt="Pemandangan Pantai">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0001.jpg" alt="Pemandangan Dari Sudut">
             </div>
             <div class="slide">
-              <img src="https://images.unsplash.com/photo-1707343844152-6d33a0bb32c3?auto=format&fit=crop&q=80" alt="Pegunungan Bersalju">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0002.jpg" alt="Pemandangan Dari Depan">
             </div>
             <div class="slide">
-              <img src="https://images.unsplash.com/photo-1682687220208-22d7a2543e88?auto=format&fit=crop&q=80" alt="Hutan Tropis">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0003.jpg" alt="Pemandangan Dari Belakang">
             </div>
             <div class="slide">
-              <img src="https://images.unsplash.com/photo-1707345512638-1d6b7a424ee9?auto=format&fit=crop&q=80" alt="Kota Malam Hari">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0004.jpg" alt="Pemandangan Dari Samping Posisi Terbuka">
             </div>
             <div class="slide">
-              <img src="https://images.unsplash.com/photo-1707345512638-1d6b7a424ee9?auto=format&fit=crop&q=80" alt="Danau dengan Pegunungan">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0005.jpg" alt="Pemandangan Isi Dalamnya">
+            </div><div class="slide">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0015.jpg" alt="Detail PSU">
+            </div><div class="slide">
+              <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0007.jpg" alt="Foto Ram Bonus Tangan">
             </div>
           </div>
           
@@ -288,14 +292,14 @@ export default {
         <div class="caption-container">
           <h2 class="caption-title">Keterangan Foto</h2>
           <div class="caption-image">
-            <img src="https://images.unsplash.com/photo-1707343844152-6d33a0bb32c3?auto=format&fit=crop&q=80" alt="Keterangan Foto">
+            <img src="https://raw.githubusercontent.com/ardicell/pc-leo/refs/heads/main/IMG-20250728-WA0099.jpg" alt="Keterangan Foto">
           </div>
-          <p class="caption-content">Foto-foto dalam gallery ini diambil dari berbagai lokasi indah di seluruh dunia. Setiap foto menampilkan keindahan alam yang menakjubkan dan momen yang langka.</p>
+          <p class="caption-content">Terimakasih Telah Mengunjungiku</p>
         </div>
       </div>
       
       <div class="footer">
-        <p>© 2023 Gallery Foto Premium | Dibuat dengan Cloudflare Workers</p>
+        <p>© 2025 Gallery Foto Pc | Dibuat dengan takdir Allah</p>
       </div>
       
       <script>
